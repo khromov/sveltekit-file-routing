@@ -1,6 +1,6 @@
 # sveltekit-file-routing
 
-A sample project to demonstrate how a SvelteKit project can run as a standalong html file.
+A sample project to demonstrate how a SvelteKit project can run as a standalone html file.
 
 ```
 nvm use
